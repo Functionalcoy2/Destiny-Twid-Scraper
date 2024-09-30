@@ -1,1 +1,6 @@
 TEST FOR TWID SCRAPER SINCE I CANNOT ACCESS IT ON MY SCHOOL COMPUTER
+
+
+javac -cp .:jsoup-1.16.1.jar WebScraper
+
+java -cp .:jsuop-16.1.1.jar WebScraper
